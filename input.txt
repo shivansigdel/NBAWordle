@@ -1,0 +1,379 @@
+Bogdan Bogdanovic/Atlanta Hawks/Eastern Conference/Southeast/SG/6-6/220/29/13
+Chaundee Brown, Jr./Atlanta Hawks/Eastern Conference/Southeast/SF/6-5/215/23/45
+Clint Capela/Atlanta Hawks/Eastern Conference/Southeast/PF/6-10/240/28/15
+John Collins/Atlanta Hawks/Eastern Conference/Southeast/PF/6-9/235/24/20
+A.J. Griffin, Jr./Atlanta Hawks/Eastern Conference/Southeast/SG/6-6/222/18/14
+Maurice Harkless/Atlanta Hawks/Eastern Conference/Southeast/F/6-9/220/29/8
+Justin Holiday/Atlanta Hawks/Eastern Conference/Southeast/SF/6-6/181/33/9
+De'Andre Hunter/Atlanta Hawks/Eastern Conference/Southeast/PF/6-7/225/24/12
+Jalen Johnson/Atlanta Hawks/Eastern Conference/Southeast/PF/6-9/220/20/1
+Dejounte Murray/Atlanta Hawks/Eastern Conference/Southeast/SG/6-5/180/25/5
+Onyeka Okongwu/Atlanta Hawks/Eastern Conference/Southeast/PF/6-9/245/21/17
+Trae Young/Atlanta Hawks/Eastern Conference/Southeast/PG/6-1/180/23/11
+Jaylen Brown/Boston Celtics/Eastern Conference/Atlantic/SF/6-6/220/25/7
+Malik Fitts/Boston Celtics/Eastern Conference/Atlantic/SF/6-8/230/25/24
+Al Horford/Boston Celtics/Eastern Conference/Atlantic/FC/6-9/240/36/42
+Juwan Morgan/Boston Celtics/Eastern Conference/Atlantic/PF/6-7/232/25/16
+Aaron Nesmith/Boston Celtics/Eastern Conference/Atlantic/F/6-6/213/22/26
+Payton Pritchard/Boston Celtics/Eastern Conference/Atlantic/PG/6-2/190/24/11
+Marcus Smart/Boston Celtics/Eastern Conference/Atlantic/PG/6-3/220/28/36
+Nik Stauskas/Boston Celtics/Eastern Conference/Atlantic/SG/6-6/205/28/13
+Jayson Tatum/Boston Celtics/Eastern Conference/Atlantic/SF/6-8/210/24/0
+Daniel Theis/Boston Celtics/Eastern Conference/Atlantic/C/6-8/245/30/27
+Derrick White/Boston Celtics/Eastern Conference/Atlantic/G/6-4/195/28/9
+Grant Williams/Boston Celtics/Eastern Conference/Atlantic/SF/6-6/236/23/40
+Robert Williams/Boston Celtics/Eastern Conference/Atlantic/PF/6-8/240/24/44
+Seth Curry/Brooklyn Nets/Eastern Conference/Atlantic/G/6-1/190/31/30
+Kevin Durant/Brooklyn Nets/Eastern Conference/Atlantic/SF/6-10/225/33/7
+Joe Harris/Brooklyn Nets/Eastern Conference/Atlantic/SG/6-6/220/30/12
+Kyrie Irving/Brooklyn Nets/Eastern Conference/Atlantic/G/6-2/195/30/11
+Royce O'Neale/Brooklyn Nets/Eastern Conference/Atlantic/SF/6-6/226/29/23
+Day'Ron Sharpe/Brooklyn Nets/Eastern Conference/Atlantic/PF/6-9/264/20/20
+Ben Simmons/Brooklyn Nets/Eastern Conference/Atlantic/PF/6-10/240/25/10
+Cam Thomas/Brooklyn Nets/Eastern Conference/Atlantic/PG/6-3/210/20/24
+Alondes Williams/Brooklyn Nets/Eastern Conference/Atlantic/G/6-5/210/24/31
+LaMelo Ball/Charlotte Hornets/Eastern Conference/Southeast/G/6-7/185/20/2
+James Bouknight/Charlotte Hornets/Eastern Conference/Southeast/G/6-4/185/21/5
+Gordon Hayward/Charlotte Hornets/Eastern Conference/Southeast/GF/6-7/230/32/20
+Kai Jones/Charlotte Hornets/Eastern Conference/Southeast/PF/6-10/225/21/23
+Jalen McDaniels/Charlotte Hornets/Eastern Conference/Southeast/PF/6-9/212/24/6
+Bryce McGowens/Charlotte Hornets/Eastern Conference/Southeast/GF/6-7/175/20/7
+Kelly Oubre, Jr./Charlotte Hornets/Eastern Conference/Southeast/SF/6-6/205/26/12
+Mason Plumlee/Charlotte Hornets/Eastern Conference/Southeast/PF/7-0/250/32/24
+Nick Richards/Charlotte Hornets/Eastern Conference/Southeast/C/7-0/250/24/14
+Terry Rozier/Charlotte Hornets/Eastern Conference/Southeast/G/6-1/195/28/3
+J.T. Thor/Charlotte Hornets/Eastern Conference/Southeast/PF/6-9/205/19/21
+P.J. Washington/Charlotte Hornets/Eastern Conference/Southeast/PF/6-7/230/23/25
+Mark Williams/Charlotte Hornets/Eastern Conference/Southeast/C/7-1/242/20/5
+Lonzo Ball/Chicago Bulls/Eastern Conference/Central/PG/6-6/190/24/2
+Tony Bradley/Chicago Bulls/Eastern Conference/Central/C/6-11/248/24/13
+Alex Caruso/Chicago Bulls/Eastern Conference/Central/G/6-4/186/28/6
+DeMar DeRozan/Chicago Bulls/Eastern Conference/Central/GF/6-6/220/32/11
+Ayo Dosunmu/Chicago Bulls/Eastern Conference/Central/PG/6-5/200/22/12
+Javonte Green/Chicago Bulls/Eastern Conference/Central/G/6-4/205/28/24
+Marko Simonovic/Chicago Bulls/Eastern Conference/Central/C/6-11/220/22/19
+Nikola Vucevic/Chicago Bulls/Eastern Conference/Central/PF/7-0/260/31/9
+Coby White/Chicago Bulls/Eastern Conference/Central/PG/6-5/191/22/0
+Patrick Williams/Chicago Bulls/Eastern Conference/Central/G/6-7/227/20/44
+Ochai Agbaji/Cleveland Cavaliers/Eastern Conference/Central/SF/6-5/215/22/30
+Jarrett Allen/Cleveland Cavaliers/Eastern Conference/Central/C/6-11/248/24/31
+Darius Garland/Cleveland Cavaliers/Eastern Conference/Central/G/6-1/186/22/10
+Caris LeVert/Cleveland Cavaliers/Eastern Conference/Central/G/6-6/205/27/3
+Kevin Love/Cleveland Cavaliers/Eastern Conference/Central/FC/6-8/247/33/0
+Lauri Markkanen/Cleveland Cavaliers/Eastern Conference/Central/SF/7-0/238/25/24
+Evan Mobley/Cleveland Cavaliers/Eastern Conference/Central/PF/7-0/215/21/4
+Isaiah Mobley/Cleveland Cavaliers/Eastern Conference/Central/SF/6-10/240/23/15
+R.J. Nembhard/Cleveland Cavaliers/Eastern Conference/Central/PG/6-5/200/23/5
+Isaac Okoro/Cleveland Cavaliers/Eastern Conference/Central/SG/6-5/225/21/35
+Cedi Osman/Cleveland Cavaliers/Eastern Conference/Central/GF/6-7/230/27/16
+Lamar Stevens/Cleveland Cavaliers/Eastern Conference/Central/SF/6-8/225/24/8
+Dean Wade/Cleveland Cavaliers/Eastern Conference/Central/PF/6-9/219/25/32
+Dylan Windler/Cleveland Cavaliers/Eastern Conference/Central/SF/6-6/199/25/9
+Davis Bertans/Dallas Mavericks/Western Conference/Southwest/SF/6-10/225/29/44
+Reggie Bullock/Dallas Mavericks/Western Conference/Southwest/SG/6-7/205/31/25
+Spencer Dinwiddie/Dallas Mavericks/Western Conference/Southwest/PG/6-5/215/29/26
+Luka Doncic/Dallas Mavericks/Western Conference/Southwest/SF/6-7/230/23/77
+Dorian Finney-Smith/Dallas Mavericks/Western Conference/Southwest/SF/6-7/220/29/10
+Josh Green/Dallas Mavericks/Western Conference/Southwest/SG/6-6/210/21/8
+Tim Hardaway Jr./Dallas Mavericks/Western Conference/Southwest/SG/6-5/205/30/11
+Maxi Kleber/Dallas Mavericks/Western Conference/Southwest/PF/6-10/240/30/42
+Frank Ntilikina/Dallas Mavericks/Western Conference/Southwest/PG/6-6/200/23/21
+Dwight Powell/Dallas Mavericks/Western Conference/Southwest/PF/6-10/240/30/7
+Christian Wood/Dallas Mavericks/Western Conference/Southwest/PF/6-10/223/26/35
+Christian Braun/Denver Nuggets/Western Conference/Northwest/SF/6-6/210/21/0
+Kentavious Caldwell-Pope/Denver Nuggets/Western Conference/Northwest/SG/6-5/204/29/1
+Collin Gillespie/Denver Nuggets/Western Conference/Northwest/PG/6-3/190/24/21
+Aaron Gordon/Denver Nuggets/Western Conference/Northwest/F/6-8/235/26/50
+Jeff Green/Denver Nuggets/Western Conference/Northwest/F/6-8/235/35/32
+Bones Hyland/Denver Nuggets/Western Conference/Northwest/G/6-3/173/21/3
+Nikola Jokic/Denver Nuggets/Western Conference/Northwest/C/7-0/284/27/15
+Jamal Murray/Denver Nuggets/Western Conference/Northwest/SG/6-4/215/25/27
+Zeke Nnaji/Denver Nuggets/Western Conference/Northwest/PF/6-11/240/21/22
+Michael Porter, Jr./Denver Nuggets/Western Conference/Northwest/PF/6-10/218/24/1
+Ish Smith/Denver Nuggets/Western Conference/Northwest/PG/6-0/180/34/4
+Peyton Watson/Denver Nuggets/Western Conference/Northwest/GF/6-8/200/19/8
+Saddiq Bey/Detroit Pistons/Eastern Conference/Central/F/6-8/215/23/41
+Buddy Boeheim/Detroit Pistons/Eastern Conference/Central/SG/6-6/195/23/45
+Cade Cunningham/Detroit Pistons/Eastern Conference/Central/SF/6-6/220/20/2
+Hamidou Diallo/Detroit Pistons/Eastern Conference/Central/SG/6-5/202/23/6
+Killian Hayes/Detroit Pistons/Eastern Conference/Central/G/6-5/195/20/7
+Jaden Ivey/Detroit Pistons/Eastern Conference/Central/G/6-4/200/20/23
+Cory Joseph/Detroit Pistons/Eastern Conference/Central/PG/6-3/200/30/18
+Braxton Key/Detroit Pistons/Eastern Conference/Central/SF/6-8/230/25/8
+Saben Lee/Detroit Pistons/Eastern Conference/Central/PG/6-2/183/23/38
+Isaiah Livers/Detroit Pistons/Eastern Conference/Central/PF/6-7/230/23/12
+Kelly Olynyk/Detroit Pistons/Eastern Conference/Central/C/6-11/240/31/13
+Isaiah Stewart II/Detroit Pistons/Eastern Conference/Central/C/6-8/250/21/28
+Stephen Curry/Golden State Warriors/Western Conference/Pacific/G/6-3/193/34/30
+Draymond Green/Golden State Warriors/Western Conference/Pacific/F/6-6/235/32/23
+Jonathan Kuminga/Golden State Warriors/Western Conference/Pacific/F/6-8/210/19/0
+Moses Moody/Golden State Warriors/Western Conference/Pacific/SG/6-6/205/20/4
+Jordan Poole/Golden State Warriors/Western Conference/Pacific/SG/6-4/195/23/3
+Lester Quinones/Golden State Warriors/Western Conference/Pacific/SG/6-5/205/22/25
+Klay Thompson/Golden State Warriors/Western Conference/Pacific/G/6-6/215/32/11
+Andrew Wiggins/Golden State Warriors/Western Conference/Pacific/F/6-7/205/27/22
+James Wiseman/Golden State Warriors/Western Conference/Pacific/C/7-0/258/21/33
+Sterling Brown/Houston Rockets/Western Conference/Southwest/G/6-5/219/27/0
+Trey Burke/Houston Rockets/Western Conference/Southwest/G/6-0/185/29/3
+Marquese Chriss/Houston Rockets/Western Conference/Southwest/PF/6-9/240/25/32
+Josh Christopher/Houston Rockets/Western Conference/Southwest/G/6-5/215/20/9
+Tari Eason/Houston Rockets/Western Conference/Southwest/F/6-8/216/21/17
+Usman Garuba/Houston Rockets/Western Conference/Southwest/C/6-8/220/20/16
+Eric Gordon/Houston Rockets/Western Conference/Southwest/G/6-3/215/33/10
+Jalen Green/Houston Rockets/Western Conference/Southwest/SG/6-6/178/20/4
+Boban Marjanovic/Houston Rockets/Western Conference/Southwest/C/7-4/290/33/51
+K.J. Martin/Houston Rockets/Western Conference/Southwest/F/6-7/215/21/6
+Garrison Mathews/Houston Rockets/Western Conference/Southwest/SG/6-5/215/25/24
+Daishen Nix/Houston Rockets/Western Conference/Southwest/GF/6-5/224/20/15
+David Nwaba/Houston Rockets/Western Conference/Southwest/G/6-5/219/29/2
+Kevin Porter, Jr./Houston Rockets/Western Conference/Southwest/SF/6-4/203/22/3
+Alperen Sengun/Houston Rockets/Western Conference/Southwest/C/6-9/235/19/28
+Jabari Smith II/Houston Rockets/Western Conference/Southwest/F/6-10/220/19/1
+TyTy Washington, Jr./Houston Rockets/Western Conference/Southwest/PG/6-3/197/20/0
+Goga Bitadze/Indiana Pacers/Eastern Conference/Central/C/6-11/245/22/88
+Oshae Brissett/Indiana Pacers/Eastern Conference/Central/PF/6-7/210/24/12
+Malcolm Brogdon/Indiana Pacers/Eastern Conference/Central/SG/6-5/229/29/7
+Chris Duarte/Indiana Pacers/Eastern Conference/Central/PG/6-6/190/25/3
+Tyrese Haliburton/Indiana Pacers/Eastern Conference/Central/PG/6-5/172/22/0
+Buddy Hield/Indiana Pacers/Eastern Conference/Central/G/6-4/220/29/24
+Isaiah Jackson/Indiana Pacers/Eastern Conference/Central/PF/6-10/206/20/22
+Bennedict Mathurin/Indiana Pacers/Eastern Conference/Central/GF/6-6/195/20/0
+T.J. McConnell/Indiana Pacers/Eastern Conference/Central/G/6-2/190/30/9
+Terry Taylor/Indiana Pacers/Eastern Conference/Central/GF/6-5/230/22/32
+Myles Turner/Indiana Pacers/Eastern Conference/Central/FC/6-11/250/26/33
+Duane Washington, Jr./Indiana Pacers/Eastern Conference/Central/G/6-3/210/22/4
+B.J. Boston, Jr./Los Angeles Clippers/Western Conference/Pacific/SG/6-6/188/20/4
+Robert Covington/Los Angeles Clippers/Western Conference/Pacific/F/6-7/209/31/23
+Paul George/Los Angeles Clippers/Western Conference/Pacific/GF/6-8/220/32/13
+Reggie Jackson/Los Angeles Clippers/Western Conference/Pacific/G/6-2/208/32/1
+Luke Kennard/Los Angeles Clippers/Western Conference/Pacific/SG/6-5/206/26/5
+Kawhi Leonard/Los Angeles Clippers/Western Conference/Pacific/F/6-7/225/31/2
+Terance Mann/Los Angeles Clippers/Western Conference/Pacific/SG/6-5/215/25/14
+Marcus Morris/Los Angeles Clippers/Western Conference/Pacific/F/6-8/218/32/8
+Norman Powell/Los Angeles Clippers/Western Conference/Pacific/SG/6-3/215/29/24
+Jason Preston/Los Angeles Clippers/Western Conference/Pacific/G/6-3/181/22/17
+Ivica Zubac/Los Angeles Clippers/Western Conference/Pacific/C/7-0/240/25/40
+Troy Brown, Jr./Los Angeles Lakers/Western Conference/Pacific/SF/6-6/215/22/7
+Anthony Davis/Los Angeles Lakers/Western Conference/Pacific/PF/6-10/253/29/3
+Wenyen Gabriel/Los Angeles Lakers/Western Conference/Pacific/PF/6-9/205/25/35
+Talen Horton-Tucker/Los Angeles Lakers/Western Conference/Pacific/SF/6-4/233/21/5
+LeBron James/Los Angeles Lakers/Western Conference/Pacific/F/6-8/250/37/6
+Stanley Johnson/Los Angeles Lakers/Western Conference/Pacific/G/6-6/242/26/14
+Damian Jones/Los Angeles Lakers/Western Conference/Pacific/PF/7-0/245/27/15
+Kendrick Nunn/Los Angeles Lakers/Western Conference/Pacific/SG/6-3/195/26/12
+Scotty Pippen, Jr./Los Angeles Lakers/Western Conference/Pacific/G/6-3/185/22/1
+Austin Reaves/Los Angeles Lakers/Western Conference/Pacific/PG/6-5/206/24/15
+Cole Swider/Los Angeles Lakers/Western Conference/Pacific/F/6-9/220/25/21
+Juan Toscano-Anderson/Los Angeles Lakers/Western Conference/Pacific/F/6-6/213/29/95
+Russell Westbrook/Los Angeles Lakers/Western Conference/Pacific/G/6-3/200/33/0
+Steven Adams/Memphis Grizzlies/Western Conference/Southwest/C/6-11/265/28/4
+Santi Aldama/Memphis Grizzlies/Western Conference/Southwest/C/6-11/226/21/7
+Desmond Bane/Memphis Grizzlies/Western Conference/Southwest/SG/6-6/215/24/22
+Dillon Brooks/Memphis Grizzlies/Western Conference/Southwest/F/6-6/215/26/24
+Brandon Clarke/Memphis Grizzlies/Western Conference/Southwest/PF/6-8/210/25/15
+Danny Green/Memphis Grizzlies/Western Conference/Southwest/SF/6-6/220/35/14
+Jaren Jackson, Jr./Memphis Grizzlies/Western Conference/Southwest/PF/6-11/242/22/13
+Tyus Jones/Memphis Grizzlies/Western Conference/Southwest/PG/6-1/196/26/21
+John Konchar/Memphis Grizzlies/Western Conference/Southwest/G/6-5/210/26/46
+Jake LaRavia/Memphis Grizzlies/Western Conference/Southwest/F/6-7/235/20/3
+Ja Morant/Memphis Grizzlies/Western Conference/Southwest/G/6-3/175/22/12
+David Roddy/Memphis Grizzlies/Western Conference/Southwest/F/6-5/255/21/27
+Killian Tillie/Memphis Grizzlies/Western Conference/Southwest/C/6-10/220/24/35
+Xavier Tillman, Sr./Memphis Grizzlies/Western Conference/Southwest/PF/6-8/245/23/2
+Vincent Williams, Jr./Memphis Grizzlies/Western Conference/Southwest/SF/6-6/205/23/5
+Ziaire Williams/Memphis Grizzlies/Western Conference/Southwest/F/6-9/185/20/8
+Bam Adebayo/Miami Heat/Eastern Conference/Southeast/C/6-10/255/24/13
+Jimmy Butler/Miami Heat/Eastern Conference/Southeast/GF/6-8/232/32/22
+Tyler Herro/Miami Heat/Eastern Conference/Southeast/SG/6-6/195/22/14
+Haywood Highsmith/Miami Heat/Eastern Conference/Southeast/F/6-7/220/25/24
+Nikola Jovic/Miami Heat/Eastern Conference/Southeast/F/6-11/223/19/5
+Kyle Lowry/Miami Heat/Eastern Conference/Southeast/PG/6-1/196/36/7
+Mychal Mulder/Miami Heat/Eastern Conference/Southeast/GF/6-3/195/28/12
+Duncan Robinson/Miami Heat/Eastern Conference/Southeast/F/6-8/210/28/55
+Javonte Smart/Miami Heat/Eastern Conference/Southeast/G/6-3/205/23/15
+Max Strus/Miami Heat/Eastern Conference/Southeast/G/6-5/220/26/31
+Gabe Vincent/Miami Heat/Eastern Conference/Southeast/G/6-3/195/26/2
+Omer Yurtseven/Miami Heat/Eastern Conference/Southeast/C/6-11/255/24/77
+Grayson Allen/Milwaukee Bucks/Eastern Conference/Central/SG/6-4/198/26/7
+Giannis Antetokounmpo/Milwaukee Bucks/Eastern Conference/Central/F/6-11/242/27/34
+Thanasis Antetokounmpo/Milwaukee Bucks/Eastern Conference/Central/SF/6-7/215/29/43
+Pat Connaughton/Milwaukee Bucks/Eastern Conference/Central/SF/6-4/209/29/24
+George Hill/Milwaukee Bucks/Eastern Conference/Central/G/6-3/188/36/3
+Jrue Holiday/Milwaukee Bucks/Eastern Conference/Central/G/6-4/205/32/21
+Brook Lopez/Milwaukee Bucks/Eastern Conference/Central/C/7-0/270/34/11
+Bobby Portis/Milwuakee Bucks/Eastern Conference/Central/C/6-10/250/27/9
+Sandro Mamukelashvili/Milwaukee Bucks/Eastern Conference/Central/F/6-11/245/24/54
+Khris Middleton/Milwaukee Bucks/Eastern Conference/Central/SF/6-8/222/30/22
+Anthony Edwards/Minnesota Timberwolves/Western Conference/Northwest/SF/6-5/229/20/1
+Rudy Gobert/Minnesota Timberwolves/Western Conference/Northwest/C/7-1/245/30/27
+Jaden McDaniels/Minnesota Timberwolves/Western Conference/Northwest/F/6-9/185/21/3
+Jordan McLaughlin/Minnesota Timberwolves/Western Conference/Northwest/G/6-1/185/26/6
+Jaylen Nowell/Minnesota Timberwolves/Western Conference/Northwest/SG/6-4/197/22/4
+Taurean Prince/Minnesota Timberwolves/Western Conference/Northwest/F/6-7/218/28/12
+Naz Reid/Minnesota Timberwolves/Western Conference/Northwest/C/6-9/250/22/11
+D'Angelo Russell/Minnesota Timberwolves/Western Conference/Northwest/SG/6-4/193/26/0
+Karl-Anthony Towns/Minnesota Timberwolves/Western Conference/Northwest/C/7-0/250/26/32
+Jose Alvarado/New Orleans Pelicans/Western Conference/Southwest/G/6-0/179/24/15
+Devonte' Graham/New Orleans Pelicans/Western Conference/Southwest/PG/6-1/185/27/4
+Jaxson Hayes/New Orleans Pelicans/Western Conference/Southwest/PF/6-11/220/22/10
+Willy Hernangomez/New Orleans Pelicans/Western Conference/Southwest/C/6-11/250/28/9
+Brandon Ingram/New Orleans Pelicans/Western Conference/Southwest/SF/6-7/190/24/14
+Herb Jones/New Orleans Pelicans/Western Conference/Southwest/SF/6-6/206/23/5
+Kira Lewis, Jr./New Orleans Pelicans/Western Conference/Southwest/PG/6-1/170/21/13
+Naji Marshall/New Orleans Pelicans/Western Conference/Southwest/SF/6-7/220/24/8
+C.J. McCollum/New Orleans Pelicans/Western Conference/Southwest/G/6-3/190/30/3
+Trey Murphy III/New Orleans Pelicans/Western Conference/Southwest/G/6-8/208/22/25
+Larry Nance, Jr./New Orleans Pelicans/Western Conference/Southwest/SF/6-7/245/29/22
+Garrett Temple/New Orleans Pelicans/Western Conference/Southwest/G/6-5/195/36/41
+Jonas Valanciunas/New Orleans Pelicans/Western Conference/Southwest/C/6-11/265/30/17
+Zion Williamson/New Orleans Pelicans/Western Conference/Southwest/PF/6-6/284/22/1
+R.J. Barrett/New York Knicks/Eastern Conference/Atlantic/SG/6-7/202/22/9
+Alec Burks/New York Knicks/Eastern Conference/Atlantic/SG/6-6/214/30/18
+Evan Fournier/New York Knicks/Eastern Conference/Atlantic/SG/6-7/205/29/13
+Taj Gibson/New York Knicks/Eastern Conference/Atlantic/F/6-9/232/37/67
+Quentin Grimes/New York Knicks/Eastern Conference/Atlantic/SG/6-5/205/22/6
+Feron Hunt/New York Knicks/Eastern Conference/Atlantic/SF/6-8/195/23/16
+Miles McBride/New York Knicks/Eastern Conference/Atlantic/G/6-2/196/21/2
+Nerlens Noel/New York Knicks/Eastern Conference/Atlantic/FC/6-11/220/28/3
+Immanuel Quickley/New York Knicks/Eastern Conference/Atlantic/PG/6-3/188/23/5
+Julius Randle/New York Knicks/Eastern Conference/Atlantic/PF/6-9/250/27/30
+Cam Reddish/New York Knicks/Eastern Conference/Atlantic/G/6-8/218/22/21
+Derrick Rose/New York Knicks/Eastern Conference/Atlantic/PG/6-3/200/33/4
+Jericho Sims/New York Knicks/Eastern Conference/Atlantic/C/6-10/240/24/45
+Obi Toppin/New York Knicks/Eastern Conference/Atlantic/F/6-9/193/24/1
+Kemba Walker/New York Knicks/Eastern Conference/Atlantic/G/6-0/184/32/8
+Darius Bazley/Oklahoma City Thunder/Western Conference/Northwest/PF/6-8/208/22/55
+Ousmane Dieng/Oklahoma City Thunder/Western Conference/Northwest/SG/6-10/216/19/13
+Derrick Favors/Oklahoma City Thunder/Western Conference/Northwest/FC/6-10/265/30/15
+Josh Giddey/Oklahoma City Thunder/Western Conference/Northwest/G/6-8/210/19/3
+Shai Gilgeous-Alexander/Oklahoma City Thunder/Western Conference/Northwest/PG/6-6/181/23/2
+JaMychal Green/Oklahoma City Thunder/Western Conference/Northwest/PF/6-8/227/32/0
+Chet Holmgren/Oklahoma City Thunder/Western Conference/Northwest/C/7-1/195/20/7
+Ty Jerome/Oklahoma City Thunder/Western Conference/Northwest/PG/6-5/195/24/10
+Vit Krejci/Oklahoma City Thunder/Western Conference/Northwest/PG/6-8/195/22/27
+Theo Maledon/Oklahoma City Thunder/Western Conference/Northwest/PG/6-5/180/21/11
+Tre Mann/Oklahoma City Thunder/Western Conference/Northwest/PG/6-5/190/21/23
+Eugene Omoruyi/Oklahoma City Thunder/Western Conference/Northwest/F/6-6/235/26/2
+Aleksej Pokusevski/Oklahoma City Thunder/Western Conference/Northwest/C/7-0/190/20/17
+Jeremiah Robinson-Earl/Oklahoma City Thunder/Western Conference/Northwest/PF/6-9/230/21/50
+Lindy Waters III/Oklahoma City Thunder/Western Conference/Northwest/SG/6-6/215/25/12
+Aaron Wiggins/Oklahoma City Thunder/Western Conference/Northwest/F/6-6/200/23/21
+Jalen Williams/Oklahoma City Thunder/Western Conference/Northwest/G/6-6/195/21/8
+Kenrich Williams/Oklahoma City Thunder/Western Conference/Northwest/SF/6-7/210/27/34
+Cole Anthony/Orlando Magic/Eastern Conference/Southeast/PG/6-3/190/22/50
+Paolo Banchero/Orlando Magic/Eastern Conference/Southeast/C/6-10/250/19/5
+Devin Cannady/Orlando Magic/Eastern Conference/Southeast/PG/6-2/183/26/30
+Wendell Carter, Jr./Orlando Magic/Eastern Conference/Southeast/PF/6-10/270/23/34
+Markelle Fultz/Orlando Magic/Eastern Conference/Southeast/PG/6-4/209/24/20
+R.J. Hampton/Orlando Magic/Eastern Conference/Southeast/G/6-6/190/21/13
+Gary Harris/Orlando Magic/Eastern Conference/Southeast/SG/6-4/205/27/14
+Jonathan Isaac/Orlando Magic/Eastern Conference/Southeast/SF/6-10/230/24/1
+Chuma Okeke/Orlando Magic/Eastern Conference/Southeast/PF/6-8/230/23/3
+Terrence Ross/Orlando Magic/Eastern Conference/Southeast/SF/6-7/206/31/31
+Jalen Suggs/Orlando Magic/Eastern Conference/Southeast/SG/6-4/205/21/4
+Franz Wagner/Orlando Magic/Eastern Conference/Southeast/SF/6-9/225/20/21
+Moe Wagner/Orlando Magic/Eastern Conference/Southeast/PF/6-11/245/25/21
+Charles Bassey/Philadelphia 76ers/Eastern Conference/Atlantic/PF/6-11/230/21/23
+Charlie Brown, Jr./Philadelphia 76ers/Eastern Conference/Atlantic/SG/6-6/199/25/16
+Joel Embiid/Philadelphia 76ers/Eastern Conference/Atlantic/C/7-0/280/28/21
+James Harden/Philadelphia 76ers/Eastern Conference/Atlantic/G/6-5/220/32/1
+Tobias Harris/Philadelphia 76ers/Eastern Conference/Atlantic/F/6-7/230/29/33
+Isaiah Joe/Philadelphia 76ers/Eastern Conference/Atlantic/SG/6-3/174/23/7
+Furkan Korkmaz/Philadelphia 76ers/Eastern Conference/Atlantic/SG/6-7/210/24/30
+Tyrese Maxey/Philadelphia 76ers/Eastern Conference/Atlantic/PG/6-2/195/21/0
+De'Anthony Melton/Philadelphia 76ers/Eastern Conference/Atlantic/SG/6-2/200/24/0
+Shake Milton/Philadelphia 76ers/Eastern Conference/Atlantic/SG/6-5/215/25/18
+Georges Niang/Philadelphia 76ers/Eastern Conference/Atlantic/F/6-7/235/29/20
+Trevelin Queen/Philadelphia 76ers/Eastern Conference/Atlantic/G/6-6/190/25/9
+Paul Reed, Jr./Philadelphia 76ers/Eastern Conference/Atlantic/F/6-8/218/23/44
+Jaden Springer/Philadelphia 76ers/Eastern Conference/Atlantic/SG/6-3/205/19/11
+Matisse Thybulle/Philadelphia 76ers/Eastern Conference/Atlantic/SF/6-5/205/25/22
+Bismack Biyombo/Phoenix Suns/Western Conference/Pacific/PF/6-9/255/29/18
+Devin Booker/Phoenix Suns/Western Conference/Pacific/SG/6-6/206/25/1
+Mikal Bridges/Phoenix Suns/Western Conference/Pacific/SG/6-7/210/25/25
+Torrey Craig/Phoenix Suns/Western Conference/Pacific/GF/6-7/221/31/12
+Jae Crowder/Phoenix Suns/Western Conference/Pacific/SF/6-6/235/32/99
+Cameron Johnson/Phoenix Suns/Western Conference/Pacific/G/6-9/210/26/23
+Jock Landale/Phoenix Suns/Western Conference/Pacific/C/6-11/255/26/34
+Damion Lee/Phoenix Suns/Western Conference/Pacific/G/6-5/203/29/1
+Josh Okogie/Phoenix Suns/Western Conference/Pacific/SG/6-4/220/23/20
+Chris Paul/Phoenix Suns/Western Conference/Pacific/PG/6-0/175/37/3
+Cameron Payne/Phoenix Suns/Western Conference/Pacific/G/6-3/190/27/15
+Dario Saric/Phoenix Suns/Western Conference/Pacific/SF/6-10/250/28/20
+Landry Shamet/Phoenix Suns/Western Conference/Pacific/PG/6-4/190/25/14
+Greg Brown III/Portland Trail Blazers/Western Conference/Northwest/SF/6-8/200/20/4
+Jerami Grant/Portland Trail Blazers/Western Conference/Northwest/F/6-8/210/28/9
+Josh Hart/Portland Trail Blazers/Western Conference/Northwest/SG/6-5/215/27/11
+Keon Johnson/Portland Trail Blazers/Western Conference/Northwest/PG/6-4/185/20/6
+Damian Lillard/Portland Trail Blazers/Western Conference/Northwest/G/6-2/195/31/0
+Nassir Little/Portland Trail Blazers/Western Conference/Northwest/SF/6-5/220/22/9
+Didi Louzada/Portland Trail Blazers/Western Conference/Northwest/SF/6-5/215/23/35
+Shaedon Sharpe/Portland Trail Blazers/Western Conference/Northwest/F/6-6/200/19/17
+Trendon Watford/Portland Trail Blazers/Western Conference/Northwest/SF/6-9/230/21/2
+Brandon Williams/Portland Trail Blazers/Western Conference/Northwest/PG/6-2/190/22/5
+Justise Winslow/Portland Trail Blazers/Western Conference/Northwest/SF/6-6/222/26/26
+Harrison Barnes/Sacramento Kings/Western Conference/Pacific/SF/6-8/225/30/40
+Terence Davis/Sacramento Kings/Western Conference/Pacific/SF/6-4/205/25/9
+Keon Ellis/Sacramento Kings/Western Conference/Pacific/F/6-6/175/23/34
+De'Aaron Fox/Sacramento Kings/Western Conference/Pacific/PG/6-3/185/24/5
+Richaun Holmes/Sacramento Kings/Western Conference/Pacific/F/6-10/240/28/22
+Kevin Huerter/Sacramento Kings/Western Conference/Pacific/SF/6-7/190/23/3
+Alex Len/Sacramento Kings/Western Conference/Pacific/C/7-0/250/29/25
+Trey Lyles/Sacramento Kings/Western Conference/Pacific/SF/6-9/234/26/41
+Chimezie Metu/Sacramento Kings/Western Conference/Pacific/PF/6-10/225/25/25
+Davion Mitchell/Sacramento Kings/Western Conference/Pacific/PG/6-2/205/23/15
+Keegan Murray/Sacramento Kings/Western Conference/Pacific/F/6-8/215/21/13
+Neemias Queta/Sacramento Kings/Western Conference/Pacific/C/7-0/245/23/88
+Domantas Sabonis/Sacramento Kings/Western Conference/Pacific/PF/6-11/240/26/10
+Keita Bates-Diop/San Antonio Spurs/Western Conference/Southwest/SF/6-8/230/26/31
+Zach Collins/San Antonio Spurs/Western Conference/Southwest/C/6-11/250/24/23
+Danilo Gallinari/San Antonio Spurs/Western Conference/Southwest/SF/6-10/233/33/8
+Keldon Johnson/San Antonio Spurs/Western Conference/Southwest/SF/6-6/210/22/3
+Tre Jones/San Antonio Spurs/Western Conference/Southwest/PG/6-3/185/22/33
+Romeo Langford/San Antonio Spurs/Western Conference/Southwest/SG/6-4/215/22/35
+Doug McDermott/San Antonio Spurs/Western Conference/Southwest/F/6-8/225/30/17
+Jakob Poeltl/San Antonio Spurs/Western Conference/Southwest/C/7-0/240/26/25
+Joshua Primo/San Antonio Spurs/Western Conference/Southwest/G/6-5/190/19/11
+Josh Richardson/San Antonio Spurs/Western Conference/Southwest/G/6-5/200/28/7
+Isaiah Roby/San Antonio Spurs/Western Conference/Southwest/SF/6-8/230/24/22
+Devin Vassell/San Antonio Spurs/Western Conference/Southwest/SG/6-7/195/21/24
+Blake Wesley/San Antonio Spurs/Western Conference/Southwest/SG/6-5/185/19/14
+Precious Achiuwa/Toronto Raptors/Eastern Conference/Atlantic/SF/6-8/235/22/5
+OG Anunoby/Toronto Raptors/Eastern Conference/Atlantic/SF/6-8/232/24/3
+Dalano Banton/Toronto Raptors/Eastern Conference/Atlantic/PG/6-7/203/22/45
+Scottie Barnes/Toronto Raptors/Eastern Conference/Atlantic/SF/6-9/227/20/4
+Khem Birch/Toronto Raptors/Eastern Conference/Atlantic/PF/6-9/230/29/24
+Armoni Brooks/Toronto Raptors/Eastern Conference/Atlantic/SG/6-3/195/24/7
+Malachi Flynn/Toronto Raptors/Eastern Conference/Atlantic/PG/6-1/185/24/8
+Svi Mykhailiuk/Toronto Raptors/Eastern Conference/Atlantic/SF/6-8/205/25/14
+Pascal Siakam/Toronto Raptors/Eastern Conference/Atlantic/F/6-9/230/28/43
+Gary Trent, Jr./Toronto Raptors/Eastern Conference/Atlantic/SG/6-6/205/23/33
+Fred VanVleet/Toronto Raptors/Eastern Conference/Atlantic/G/6-0/195/28/23
+Thaddeus Young/Toronto Raptors/Eastern Conference/Atlantic/F/6-8/235/34/30
+Nickeil Alexander-Walker/Utah Jazz/Western Conference/Northwest/SG/6-5/205/23/6
+Udoka Azubuike/Utah Jazz/Western Conference/Northwest/C/7-0/270/22/20
+Malik Beasley/Utah Jazz/Western Conference/Northwest/SG/6-4/196/25/5
+Patrick Beverley/Utah Jazz/Western Conference/Northwest/PG/6-1/180/33/22
+Bojan Bogdanovic/Utah Jazz/Western Conference/Northwest/F/6-8/216/33/44
+Leandro Bolmaro/Utah Jazz/Western Conference/Northwest/SG/6-6/200/21/9
+Jared Butler/Utah Jazz/Western Conference/Northwest/PG/6-3/195/21/13
+Jordan Clarkson/Utah Jazz/Western Conference/Northwest/G/6-5/192/30/0
+Mike Conley/Utah Jazz/Western Conference/Northwest/PG/6-1/175/34/11
+Rudy Gay/Utah Jazz/Western Conference/Northwest/SF/6-8/240/35/8
+Donovan Mitchell/Utah Jazz/Western Conference/Northwest/SG/6-3/215/25/45
+Xavier Sneed/Utah Jazz/Western Conference/Northwest/SF/6-5/215/24/19
+Jarred Vanderbilt/Utah Jazz/Western Conference/Northwest/PF/6-8/214/23/3
+Deni Avdija/Washington Wizards/Eastern Conference/Southeast/SG/6-9/210/21/9
+Will Barton/Washington Wizards/Eastern Conference/Southeast/GF/6-5/181/31/5
+Bradley Beal/Washington Wizards/Eastern Conference/Southeast/G/6-3/207/29/3
+Vernon Carey, Jr./Washington Wizards/Eastern Conference/Southeast/PF/6-9/270/21/22
+Johnny Davis/Washington Wizards/Eastern Conference/Southeast/F/6-5/196/20/5
+Daniel Gafford/Washington Wizards/Eastern Conference/Southeast/C/6-11/234/23/21
+Anthony Gill/Washington Wizards/Eastern Conference/Southeast/PF/6-8/230/29/16
+Rui Hachimura/Washington Wizards/Eastern Conference/Southeast/F/6-8/230/24/8
+Corey Kispert/Washington Wizards/Eastern Conference/Southeast/SF/6-7/220/23/24
+Kyle Kuzma/Washington Wizards/Eastern Conference/Southeast/F/6-10/221/26/33
+Monte Morris/Washington Wizards/Eastern Conference/Southeast/G/6-2/183/27/11
+Kristaps Porzingis/Washington Wizards/Eastern Conference/Southeast/FC/7-3/240/26/6
+Jordan Schakel/Washington Wizards/Eastern Conference/Southeast/SF/6-6/200/24/20
+Isaiah Todd/Washington Wizards/Eastern Conference/Southeast/PF/6-9/219/20/14
